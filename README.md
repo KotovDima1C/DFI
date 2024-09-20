@@ -5,6 +5,7 @@
 <a href="https://github.com/KotovDima1C/DFI/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/KotovDima1C/DFI?style=badge"></a>
 <a href="https://github.com/KotovDima1C/DFI/releases/latest"><img alt="Last release" src="https://img.shields.io/github/v/release/KotovDima1C/DFI?include_prereleases&label=last%20release&style=badge"></a>
 <a href="https://github.com/KotovDima1C/DFI/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/KotovDima1C/DFI/total?style=flat-square"></a>
+<a href="https://openyellow.org/grid?data=top&repo=292731386"><img alt="OpenYellow" src="https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/1/292731386.json"></a>
 </p>
 
 Библиотека ДФИ готовый набор функций по разработке интерфейса с помощью кода.
