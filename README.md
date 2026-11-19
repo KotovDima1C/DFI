@@ -1,11 +1,12 @@
 <h2 align="center">DFI<br>Динамическое Формирование Интерфейса</h2>
 
 <p align="center">
-<a href="https://github.com/KotovDima1C/DFI/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/KotovDima1C/DFI?style=badge"></a>
-<a href="https://github.com/KotovDima1C/DFI/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/KotovDima1C/DFI?style=badge"></a>
+<a href="https://t.me/top_1c"><img alt="1С Заметки" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Ft.me%2Ftop_1c&search=tgme_page_extra%22%3E(%5B%5Cd%20%5D%2B)%20subscribers&replace=%241&label=1%D0%A1%20%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8&logo=telegram&color=26A5E4&style=badge"></a>
+<a href="https://openyellow.org/grid?data=top&repo=292731386"><img alt="OpenYellow" src="https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/1/292731386.json"></a>
 <a href="https://github.com/KotovDima1C/DFI/releases/latest"><img alt="Last release" src="https://img.shields.io/github/v/release/KotovDima1C/DFI?include_prereleases&label=last%20release&style=badge"></a>
 <a href="https://github.com/KotovDima1C/DFI/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/KotovDima1C/DFI/total?style=badge"></a>
-<a href="https://openyellow.org/grid?data=top&repo=292731386"><img alt="OpenYellow" src="https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/1/292731386.json"></a>
+<a href="https://github.com/KotovDima1C/DFI/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/KotovDima1C/DFI?style=badge"></a>
+<a href="https://kotov.top"><img alt="kotov.top" src="https://img.shields.io/badge/%D1%81%D0%B0%D0%B9%D1%82-kotov.top-blue?style=badge"></a>
 </p>
 
 DFI — библиотека для программного формирования интерфейса управляемых форм 1С.
