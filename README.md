@@ -6,7 +6,7 @@
 <a href="https://github.com/KotovDima1C/DFI/releases/latest"><img alt="Last release" src="https://img.shields.io/github/v/release/KotovDima1C/DFI?include_prereleases&label=last%20release&style=badge"></a>
 <a href="https://github.com/KotovDima1C/DFI/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/KotovDima1C/DFI/total?style=badge"></a>
 <a href="https://github.com/KotovDima1C/DFI/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/KotovDima1C/DFI?style=badge"></a>
-<a href="https://kotov.top"><img alt="kotov.top" src="https://img.shields.io/badge/%D1%81%D0%B0%D0%B9%D1%82-kotov.top-blue?style=badge"></a>
+<a href="https://kotov.top"><img alt="kotov.top" src="https://img.shields.io/badge/%D1%81%D0%B0%D0%B9%D1%82-kotov.top-blueviolet?style=badge"></a>
 </p>
 
 DFI — библиотека для программного формирования интерфейса управляемых форм 1С.
@@ -24,6 +24,7 @@ DFI — библиотека для программного формирова�
 - [Выпадающий список и переключатель](#выпадающий-список-и-переключатель)
 - [Свойства и события](#свойства-и-события)
 - [Удаление](#удаление)
+- [Лицензия](#лицензия)
 - [Ссылки](#ссылки)
 
 ## Установка
@@ -357,6 +358,16 @@ DFI — библиотека для программного формирова�
 На скриншоте — форма после удаления: из трех элементов осталось одно поле, надпись добавлена для пояснения.
 
 ![Удаление](images/12-deletion.jpg)
+
+## Лицензия
+Copyright (C) 2020–2026 Котов Дмитрий Вадимович и участники проекта.
+
+DFI распространяется по лицензии [GNU LGPL](LICENSE) версии 2.1 или более поздней. Коротко это значит:
+
+- Библиотеку можно бесплатно использовать в любых конфигурациях, включая коммерческие и закрытые.
+- Код, который только вызывает функции DFI, открывать не требуется.
+- Если вы изменили саму библиотеку и передаете ее другим, измененный модуль должен распространяться на тех же условиях и с исходным кодом.
+- Библиотека предоставляется «как есть», без гарантий.
 
 ## Ссылки
 - Подробное описание и примеры использования — в публикации на [Инфостарт](https://infostart.ru/1c/articles/1284403/).
